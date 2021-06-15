@@ -6,7 +6,7 @@ This comment must remain at the top in all cases - it will not be visible on fin
   
  
 body {
-background: url("https://s-media-cache-ak0.pinimg.com/originals/16/7e/79/167e791030e847616ebc4852c3056ede.jpg") fixed;
+background: url("https://imgur.com/a/bObgvvN") fixed;
 background-repeat: no-repeat;
 background-size: cover;
 color: #000;
